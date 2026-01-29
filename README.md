@@ -1,2 +1,3 @@
-# Wav2Vec2-XLSR53-ASR-WebUI
-基于 Wav2Vec2-Large-XLSR-53 多语种自监督编码模型的语音识别 WebUI 可视化演示项目。
+# Wav2Vec2-XLSR53-ASR-WebUI 说明
+
+本仓库从“多语种自监督编码模型”的视角对 Wav2Vec2-Large-XLSR-53 的典型使用方式进行可视化展示，其核心代码与 `wav2vec2-large-xlsr-kn-WebUI` 保持一致，仅在命名上突出 XLSR-53 这一预训练骨干。关于模型背景、WebUI 结构与部署方法的系统性论述，请参考主仓库中的中文学位论文风格 README 文档；本仓库则更多用于在实验报告或项目演示中，以更接近模型族名称的方式进行引用与归档。
